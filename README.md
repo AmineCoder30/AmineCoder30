@@ -21,7 +21,7 @@
 
 - 🖥️ I am a Software Developer | UI/UX Designer | full stack Developer.
 - 🖥️  See my portfolio at [MyPortfolio](https://amine-mohamed.netlify.app/).
-- ✉️  You can contact me at [sabirkhaloufi@gmail.com](http://mailto:mohamedam3006@gmail.com)
+- ✉️  You can contact me at [mohamedam3006@gmail.com](http://mailto:mohamedam3006@gmail.com)
 <br>
 
 ## 🔧 Technologies & Tools
