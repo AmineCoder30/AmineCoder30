@@ -2,7 +2,7 @@
 
 [![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-mohamed-5a914a23a/)](https://www.linkedin.com/in/amine-mohamed-5a914a23a/)
 [![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022436844351)](https://www.facebook.com/profile.php?id=100022436844351)
-[![Twitter:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)
+[![Twitter:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=instagram&logoColor=pink&link=https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)
 ![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
 
 ![AmineCoder30coverturegithub](https://github.com/AmineCoder30/AmineCoder30/blob/main/cover.jpg)
