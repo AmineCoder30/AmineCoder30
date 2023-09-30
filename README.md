@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed Amine Sebbani  👋 
 
-[![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
-[![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.Facebook.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.facebook.com/sabirlkhaloufi)
+[![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-mohamed-5a914a23a/)](https://www.linkedin.com/in/amine-mohamed-5a914a23a/)
+[![Facebook:Amine](https://img.shields.io/badge/-AmineCoder30-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022436844351)](https://www.facebook.com/profile.php?id=100022436844351)
 [![Twitter:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiAmine)](https://twitter.com/LkhaloufiAmine)
 ![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
 
