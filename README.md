@@ -1,4 +1,4 @@
-### Hi there, I'm Amine Lkhaloufi  👋 
+### Hi there, I'm Mohamed Amine Sebbani  👋 
 
 [![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
 [![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.Facebook.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.facebook.com/sabirlkhaloufi)
@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 
-![AmineCoder30coverturegithub](https://github.com/sabirlkhaloufi/sabirlkhaloufi/blob/main/sabirkhaloufi.png)
+![AmineCoder30coverturegithub](https://github.com/AmineCoder30/AmineCoder30/blob/main/cover.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
@@ -20,7 +20,7 @@
 
 ## :sassy_man:  About me
 
-- 🖥️ I am a Software Developer | UI/UX Designer | Mobile Developer | full stack Developer |MernStack Developer.
+- 🖥️ I am a Software Developer | UI/UX Designer | full stack Developer.
 - 🖥️  See my portfolio at [MyPortfolio](https://amine-mohamed.netlify.app/).
 - ✉️  You can contact me at [sabirkhaloufi@gmail.com](http://mailto:mohamedam3006@gmail.com)
 <br>
@@ -35,6 +35,9 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
 </td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
@@ -45,9 +48,6 @@
 		</tr>
 		<tr>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code></td>
-			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
