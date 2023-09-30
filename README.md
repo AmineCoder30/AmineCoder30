@@ -3,8 +3,7 @@
 [![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.linkedin.com/in/sabir-lkhaloufi-9aaab2209/)
 [![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.Facebook.com/in/sabir-lkhaloufi-9aaab2209/)](https://www.facebook.com/sabirlkhaloufi)
 [![Twitter:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/LkhaloufiAmine)](https://twitter.com/LkhaloufiAmine)
-![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social)
-<img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
+![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
 
 ![AmineCoder30coverturegithub](https://github.com/AmineCoder30/AmineCoder30/blob/main/cover.jpg)
 <p align="center">
