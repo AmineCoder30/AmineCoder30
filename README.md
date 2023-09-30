@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=sabirlkhaloufi&label=Profile%20views&color=0e75b6&style=plastic" alt="sabir lkhaloufi github" width="110px" /> 
 
-![AmineCoder30coverturegithub](https://github.com/AmineCoder30/AmineCoder30/blob/main/cover.png)
+![AmineCoder30coverturegithub](https://github.com/AmineCoder30/AmineCoder30/blob/main/cover.jpg)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
