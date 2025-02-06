@@ -20,7 +20,7 @@
 ## :sassy_man:  About me
 
 - 🖥️ I am a Software Developer | UI/UX Designer | full stack Developer.
-- 🖥️  See my portfolio at [MyPortfolio](https://amine-mohamed.netlify.app/).
+- 🖥️  See my portfolio at [MyPortfolio](https://amine-mo.netlify.app/).
 - ✉️  You can contact me at [mohamedam3006@gmail.com](http://mailto:mohamedam3006@gmail.com)
 <br>
 
