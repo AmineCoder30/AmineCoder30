@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohamed Amine Sebbani  👋 
 
-[![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=orange&link=https://www.linkedin.com/in/amine-mohamed-5a914a23a/)](https://www.linkedin.com/in/amine-mohamed-5a914a23a/)
+[![Linkedin:Amine](https://img.shields.io/badge/-Amine-orange?style=flat-square&logo=Linkedin&logoColor=orange&link=https://www.linkedin.com/in/amine-mohamed-5a914a23a/)](https://www.linkedin.com/in/amine-mohamed-5a914a23a/)
 [![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022436844351)](https://web.facebook.com/amine.dev.2025/)
 [![Instagram:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)
 ![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
