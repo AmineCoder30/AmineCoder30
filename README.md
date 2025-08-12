@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohamed Amine Sebbani  👋 
 
 [![Linkedin:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amine-mohamed-5a914a23a/)](https://www.linkedin.com/in/amine-mohamed-5a914a23a/)
-[![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022436844351)](https://www.facebook.com/profile.php?id=100022436844351)
+[![Facebook:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022436844351)](https://web.facebook.com/amine.dev.2025/)
 [![Instagram:Amine](https://img.shields.io/badge/-Amine-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)
 ![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
 
@@ -20,7 +20,7 @@
 ## :sassy_man:  About me
 
 - 🖥️ I am a Software Developer | UI/UX Designer | full stack Developer.
-- 🖥️  See my portfolio at [MyPortfolio](https://amine-mo.netlify.app/).
+- 🖥️  See my portfolio at [MyPortfolio](https://aminemohamed.netlify.app/).
 - ✉️  You can contact me at [mohamedam3006@gmail.com](http://mailto:mohamedam3006@gmail.com)
 <br>
 
