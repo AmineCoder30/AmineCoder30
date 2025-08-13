@@ -5,7 +5,11 @@
 [![Instagram:My Instagram](https://img.shields.io/badge/-Amine-FF005B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/aminemoham95?igshid=OGQ5ZDc2ODk2ZA==)
 ![GitHub followers](https://img.shields.io/github/followers/AmineCoder30?label=Follow&style=social) 
 
-![AmineCoder30coverturegithub](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxyYXRjcHRzaDg4eWgxMDJ3OGpxanNoZGZvZ2loaDB2MTltc2Q2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif)
+
+<div width="100%" align="center" > 
+	
+<img width="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxyYXRjcHRzaDg4eWgxMDJ3OGpxanNoZGZvZ2loaDB2MTltc2Q2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Git" title="Git"/>
+</div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
